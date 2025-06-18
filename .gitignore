@@ -1,0 +1,10 @@
+# Ignora file grandi dimensioni
+idoSince2023.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.db
+*.shp
+*.shx
+*.prj
+*.docx~

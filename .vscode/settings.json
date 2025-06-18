@@ -1,0 +1,11 @@
+{
+    "editor.cursorSmoothCaretAnimation": "off",
+    "terminal.integrated.accessibleViewPreserveCursorPosition": false,
+    "terminal.integrated.cursorBlinking": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.find.cursorMoveOnType": false,
+    "search.seedWithNearestWord": true,
+    "python.REPL.enableREPLSmartSend": false,
+    "python.terminal.focusAfterLaunch": false
+}
